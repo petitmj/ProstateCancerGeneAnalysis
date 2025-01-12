@@ -34,7 +34,7 @@ This project provides an interactive web-based platform for analyzing prostate c
 - **Python 3.8+**
 - Neo4j Aura (or a local Neo4j database)
 - [Streamlit](https://streamlit.io)
-- Modus API (Optional)
+- Modus API
 
 ### Clone the Repository
 ```bash
