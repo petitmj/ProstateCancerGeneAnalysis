@@ -116,7 +116,7 @@ streamlit run app.py
 |-----------------------------------------|----------------------------------------------------|
 | `app.py`                                | Main Streamlit application.                        |
 | `requirements.txt`                      | Python dependencies.                               |
-| `secrets.toml`                          | Configuration file for secrets (e.g., Neo4j and Modus API credentials). |
+| `.streamlit/secrets.toml`               | Configuration file for secrets (e.g., Neo4j and Modus API credentials). |
 | `data/cancer_predisposition_variants.csv` | Sample data for cancer predisposition variants.    |
 | `data/gene_list.csv`                    | Sample gene list data.                             |
 
