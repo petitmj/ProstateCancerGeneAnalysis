@@ -125,7 +125,7 @@ streamlit run app.py
 ## Technical Details
 
 ### Machine Learning
-- Uses `sklearn`'s Random Forest Classifier.
+- Uses Modus API.
 - Automatically handles missing data for Neo4j insertion.
 
 ### Knowledge Graph
