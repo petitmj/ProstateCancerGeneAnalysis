@@ -6,7 +6,6 @@ This project provides an interactive web-based platform for analyzing prostate c
 
 1. **Machine Learning Analysis**
    - Integrates **Modus API** for feature analysis and prediction.
-   - Falls back to `sklearn`'s **Random Forest Classifier** when Modus API is unavailable.
    - Classification of genes based on mutation frequency.
 
 2. **Clustering**
