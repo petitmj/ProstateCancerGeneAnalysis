@@ -1,0 +1,784 @@
+symbol,method_of_action,cosmic_moa,intogen_moa,gene_id
+ABCB1,Act,,Act,SIDG00064
+ABI1,ambiguous,"TSG, fusion",ambiguous,SIDG00145
+ABL1,Act,"oncogene, fusion",Act,SIDG00150
+ABL2,Act,"oncogene, fusion",Act,SIDG00151
+ACKR3,Act,"oncogene, fusion",Act,SIDG00205
+ACSL3,Act,fusion,Act,SIDG00244
+ACVR1,ambiguous,oncogene,ambiguous,SIDG00344
+ACVR2A,LoF,TSG,LoF,SIDG00347
+AFDN,Act,"oncogene, fusion",,SIDG00567
+AFF1,Act,fusion,Act,SIDG00569
+AFF3,ambiguous,"oncogene, fusion",ambiguous,SIDG00573
+AFF4,Act,"oncogene, fusion",,SIDG00574
+AJUBA,LoF,,LoF,SIDG00701
+AKT1,Act,oncogene,Act,SIDG00784
+AKT2,Act,oncogene,,SIDG00786
+AKT3,ambiguous,,ambiguous,SIDG00787
+ALB,Act,,Act,SIDG00793
+ALK,Act,"oncogene, fusion",Act,SIDG00858
+AMER1,LoF,TSG,LoF,SIDG00920
+APC,LoF,TSG,LoF,SIDG01214
+APOBEC3B,ambiguous,"oncogene, TSG",,SIDG01247
+AR,Act,oncogene,Act,SIDG01312
+ARAF,Act,,Act,SIDG01313
+ARHGAP26,LoF,"TSG, fusion",,SIDG01382
+ARHGAP35,LoF,,LoF,SIDG01396
+ARHGAP5,LoF,,LoF,SIDG01359
+ARHGEF10,ambiguous,,ambiguous,SIDG01424
+ARHGEF10L,LoF,,LoF,SIDG01425
+ARHGEF12,ambiguous,"TSG, fusion",Act,SIDG01427
+ARID1A,LoF,"TSG, fusion",LoF,SIDG01446
+ARID1B,LoF,TSG,LoF,SIDG01447
+ARID2,LoF,TSG,LoF,SIDG01448
+ARNT,ambiguous,"oncogene, TSG, fusion",,SIDG01543
+ASPSCR1,fusion,fusion,,SIDG01681
+ASXL1,LoF,TSG,LoF,SIDG01704
+ASXL2,LoF,,LoF,SIDG01705
+ATF1,Act,"oncogene, fusion",,SIDG01720
+ATF7IP,LoF,,LoF,SIDG01733
+ATG7,LoF,,LoF,SIDG01745
+ATIC,fusion,fusion,,SIDG01760
+ATM,LoF,TSG,LoF,SIDG01764
+ATP1A1,ambiguous,"oncogene, TSG",,SIDG01771
+ATP2B3,LoF,TSG,,SIDG01792
+ATR,LoF,TSG,LoF,SIDG01954
+ATRX,LoF,TSG,LoF,SIDG01959
+AXIN1,LoF,TSG,LoF,SIDG02003
+AXIN2,LoF,TSG,LoF,SIDG02004
+B2M,LoF,TSG,LoF,SIDG02017
+BAP1,LoF,TSG,LoF,SIDG02114
+BARD1,LoF,TSG,,SIDG02115
+BAX,LoF,TSG,,SIDG02127
+BCL10,ambiguous,"TSG, fusion",ambiguous,SIDG02200
+BCL11A,Act,"oncogene, fusion",Act,SIDG02201
+BCL11B,ambiguous,"oncogene, TSG, fusion",Act,SIDG02202
+BCL2,Act,"oncogene, fusion",Act,SIDG02177
+BCL2L12,ambiguous,,ambiguous,SIDG02184
+BCL3,Act,"oncogene, fusion",,SIDG02189
+BCL6,Act,"oncogene, fusion",Act,SIDG02191
+BCL7A,Act,fusion,Act,SIDG02194
+BCL9,Act,"oncogene, fusion",Act,SIDG02197
+BCL9L,ambiguous,"oncogene, TSG",Act,SIDG02198
+BCLAF1,Act,,Act,SIDG02203
+BCOR,LoF,"TSG, fusion",LoF,SIDG02209
+BCORL1,ambiguous,"oncogene, TSG",LoF,SIDG02210
+BCR,Act,fusion,Act,SIDG02212
+BIRC3,ambiguous,"oncogene, TSG, fusion",Act,SIDG02303
+BIRC6,ambiguous,,ambiguous,SIDG02305
+BLM,LoF,TSG,,SIDG02318
+BMPR1A,ambiguous,"oncogene, TSG",LoF,SIDG02359
+BMPR2,LoF,,LoF,SIDG02364
+BRAF,Act,"oncogene, fusion",Act,SIDG02491
+BRCA1,LoF,TSG,LoF,SIDG02496
+BRCA2,LoF,TSG,LoF,SIDG02498
+BRD3,Act,"oncogene, fusion",,SIDG02504
+BRD4,Act,"oncogene, fusion",Act,SIDG02506
+BRD7,LoF,,LoF,SIDG02507
+BRIP1,LoF,TSG,,SIDG02533
+BTG1,ambiguous,"TSG, fusion",ambiguous,SIDG02614
+BTK,ambiguous,"oncogene, TSG",Act,SIDG02622
+BUB1B,LoF,TSG,,SIDG02641
+CACNA1D,ambiguous,oncogene,ambiguous,SIDG03307
+CALR,Act,oncogene,,SIDG03383
+CAMTA1,LoF,"TSG, fusion",LoF,SIDG03407
+CANT1,fusion,fusion,,SIDG03414
+CARD11,Act,oncogene,Act,SIDG03455
+CARS1,ambiguous,"TSG, fusion",ambiguous,SIDG03471
+CASP8,LoF,TSG,LoF,SIDG03513
+CASZ1,LoF,,LoF,SIDG03528
+CBFA2T3,ambiguous,"TSG, fusion",Act,SIDG03555
+CBFB,ambiguous,"TSG, fusion",Act,SIDG03556
+CBL,ambiguous,"oncogene, TSG, fusion",Act,SIDG03557
+CBLB,LoF,TSG,,SIDG03558
+CBLC,ambiguous,"oncogene, TSG",,SIDG03559
+CCDC6,LoF,"TSG, fusion",LoF,SIDG03616
+CCNB1IP1,LoF,"TSG, fusion",,SIDG03829
+CCND1,Act,"oncogene, fusion",Act,SIDG03838
+CCND2,Act,"oncogene, fusion",Act,SIDG03839
+CCND3,Act,"oncogene, fusion",Act,SIDG03842
+CCNE1,Act,oncogene,,SIDG03846
+CCR7,LoF,,LoF,SIDG03886
+CD274,LoF,"TSG, fusion",,SIDG04016
+CD58,LoF,,LoF,SIDG03973
+CD74,Act,"oncogene, fusion",,SIDG03980
+CD79A,Act,oncogene,,SIDG03981
+CD79B,Act,oncogene,Act,SIDG03982
+CDC73,LoF,TSG,LoF,SIDG04087
+CDH1,LoF,TSG,LoF,SIDG04102
+CDH10,Act,,Act,SIDG04111
+CDH11,ambiguous,"TSG, fusion",ambiguous,SIDG04112
+CDK12,LoF,TSG,LoF,SIDG04166
+CDK4,Act,oncogene,Act,SIDG04147
+CDK6,Act,"oncogene, fusion",,SIDG04156
+CDKN1A,LoF,,LoF,SIDG04181
+CDKN1B,LoF,TSG,LoF,SIDG04183
+CDKN2A,LoF,TSG,LoF,SIDG04185
+CDKN2C,LoF,TSG,LoF,SIDG04194
+CDX2,ambiguous,"TSG, fusion",Act,SIDG04229
+CEBPA,ambiguous,TSG,ambiguous,SIDG04285
+CEP43,fusion,fusion,,SIDG09087
+CHCHD7,fusion,fusion,,SIDG04540
+CHD2,LoF,,LoF,SIDG04544
+CHD4,Act,oncogene,Act,SIDG04546
+CHEK2,LoF,TSG,LoF,SIDG04554
+CIC,ambiguous,"oncogene, TSG, fusion",LoF,SIDG04675
+CIITA,ambiguous,"TSG, fusion",Act,SIDG04708
+CLIP1,LoF,fusion,LoF,SIDG04858
+CLTC,ambiguous,"TSG, fusion",Act,SIDG04905
+CLTCL1,ambiguous,"TSG, fusion",Act,SIDG04907
+CMTR2,LoF,,LoF,SIDG04962
+CNBP,LoF,"TSG, fusion",,SIDG04969
+CNOT3,ambiguous,TSG,Act,SIDG05011
+CNTRL,fusion,fusion,,SIDG05065
+COL1A1,Act,fusion,Act,SIDG05089
+COL2A1,fusion,fusion,,SIDG05093
+CPEB3,Act,,Act,SIDG05319
+CR1,ambiguous,,ambiguous,SIDG05369
+CREB1,Act,"oncogene, fusion",,SIDG05386
+CREB3L1,LoF,"TSG, fusion",,SIDG05388
+CREB3L2,Act,"oncogene, fusion",,SIDG05389
+CREBBP,ambiguous,"oncogene, TSG, fusion",LoF,SIDG05393
+CRLF2,Act,"oncogene, fusion",,SIDG05424
+CRNKL1,Act,,Act,SIDG05429
+CRTC1,ambiguous,"oncogene, fusion",ambiguous,SIDG05445
+CRTC3,fusion,fusion,,SIDG05447
+CSF3R,Act,oncogene,Act,SIDG05503
+CTCF,LoF,TSG,LoF,SIDG05645
+CTNNB1,Act,"oncogene, fusion",Act,SIDG05669
+CUL3,LoF,,LoF,SIDG05725
+CUX1,ambiguous,"oncogene, TSG",ambiguous,SIDG05735
+CXCR4,Act,oncogene,Act,SIDG05773
+CYLD,LoF,TSG,LoF,SIDG05873
+CYP2C8,LoF,,LoF,SIDG05892
+CYSLTR2,Act,,Act,SIDG06001
+DAXX,ambiguous,"oncogene, TSG",LoF,SIDG06056
+DAZAP1,LoF,,LoF,SIDG06061
+DCAF12L2,Act,,Act,SIDG06104
+DCC,LoF,,LoF,SIDG06116
+DCSTAMP,Act,,Act,SIDG06142
+DCTN1,fusion,fusion,,SIDG06145
+DDB2,ambiguous,"oncogene, TSG",LoF,SIDG06166
+DDIT3,Act,"oncogene, fusion",,SIDG06174
+DDR2,Act,oncogene,,SIDG06184
+DDX10,LoF,"TSG, fusion",,SIDG06202
+DDX3X,LoF,TSG,LoF,SIDG06194
+DDX5,Act,"oncogene, fusion",,SIDG06197
+DDX6,ambiguous,"oncogene, fusion",ambiguous,SIDG06198
+DEK,Act,"oncogene, fusion",,SIDG06359
+DGCR8,LoF,,LoF,SIDG06490
+DHX9,Act,,Act,SIDG06541
+DICER1,LoF,TSG,LoF,SIDG06566
+DIS3,LoF,,LoF,SIDG06591
+DNAJB1,LoF,fusion,LoF,SIDG06724
+DNM2,LoF,TSG,,SIDG06841
+DNMT3A,LoF,TSG,LoF,SIDG06848
+DOT1L,LoF,,LoF,SIDG06888
+DROSHA,LoF,TSG,LoF,SIDG06992
+DTX1,ambiguous,,ambiguous,SIDG07036
+DUSP16,LoF,,LoF,SIDG07078
+EBF1,ambiguous,"TSG, fusion",ambiguous,SIDG07252
+EFTUD2,ambiguous,,ambiguous,SIDG07446
+EGFR,Act,oncogene,Act,SIDG07457
+EGR2,ambiguous,,ambiguous,SIDG07468
+EHD2,ambiguous,,ambiguous,SIDG07474
+EIF1AX,LoF,,LoF,SIDG07496
+EIF3E,ambiguous,"TSG, fusion",Act,SIDG07541
+EIF4A2,fusion,fusion,,SIDG07580
+ELF3,LoF,,LoF,SIDG07653
+ELF4,ambiguous,"oncogene, TSG, fusion",Act,SIDG07655
+ELK4,Act,"oncogene, fusion",,SIDG07665
+ELL,ambiguous,"TSG, fusion",ambiguous,SIDG07666
+ELN,ambiguous,,ambiguous,SIDG07682
+EML4,ambiguous,fusion,ambiguous,SIDG07772
+ENPEP,ambiguous,,ambiguous,SIDG07813
+EP300,LoF,"TSG, fusion",LoF,SIDG07855
+EPAS1,ambiguous,"oncogene, TSG",Act,SIDG07859
+EPHA2,LoF,,LoF,SIDG07878
+EPHA3,ambiguous,,ambiguous,SIDG07879
+EPHA7,ambiguous,,ambiguous,SIDG07884
+EPS15,ambiguous,"TSG, fusion",Act,SIDG07916
+ERBB2,Act,"oncogene, fusion",Act,SIDG07927
+ERBB3,Act,oncogene,Act,SIDG07928
+ERBB4,ambiguous,"oncogene, TSG",LoF,SIDG07929
+ERC1,fusion,fusion,,SIDG07931
+ERCC2,LoF,TSG,LoF,SIDG07935
+ERCC3,LoF,TSG,LoF,SIDG07936
+ERCC4,LoF,TSG,,SIDG07937
+ERCC5,LoF,TSG,,SIDG07938
+ERG,Act,"oncogene, fusion",Act,SIDG07949
+ESR1,ambiguous,"oncogene, TSG, fusion",Act,SIDG08129
+ESRRA,Act,,Act,SIDG08134
+ETNK1,LoF,TSG,,SIDG08160
+ETV1,Act,"oncogene, fusion",,SIDG08165
+ETV4,ambiguous,"oncogene, fusion",LoF,SIDG08169
+ETV5,Act,"oncogene, fusion",Act,SIDG08170
+ETV6,ambiguous,"TSG, fusion",Act,SIDG08172
+EWSR1,Act,"oncogene, fusion",Act,SIDG08191
+EXT1,LoF,"TSG, fusion",,SIDG08228
+EXT2,LoF,TSG,LoF,SIDG08229
+EZH2,ambiguous,"oncogene, TSG",LoF,SIDG08244
+EZR,fusion,fusion,,SIDG08246
+FAM135B,Act,,Act,SIDG08581
+FAM174B,ambiguous,,ambiguous,SIDG08637
+FAM186A,ambiguous,,ambiguous,SIDG08657
+FANCA,LoF,TSG,LoF,SIDG08782
+FANCC,LoF,TSG,LoF,SIDG08784
+FANCD2,LoF,TSG,LoF,SIDG08785
+FANCE,LoF,TSG,,SIDG08789
+FANCF,LoF,TSG,LoF,SIDG08790
+FANCG,LoF,TSG,,SIDG08791
+FAS,LoF,TSG,LoF,SIDG08815
+FAT1,LoF,TSG,LoF,SIDG08824
+FAT2,Act,,Act,SIDG08826
+FAT3,ambiguous,,ambiguous,SIDG08827
+FAT4,LoF,TSG,LoF,SIDG08828
+FBLN1,Act,,Act,SIDG08842
+FBN2,ambiguous,,ambiguous,SIDG08847
+FBXO11,LoF,TSG,LoF,SIDG08883
+FBXW7,LoF,TSG,LoF,SIDG08918
+FCGR2B,Act,"oncogene, fusion",,SIDG08948
+FCRL4,Act,"oncogene, fusion",,SIDG08969
+FES,ambiguous,"oncogene, TSG",,SIDG09023
+FEV,Act,"oncogene, fusion",,SIDG09025
+FGD5,Act,,Act,SIDG09041
+FGFR1,Act,"oncogene, fusion",Act,SIDG09086
+FGFR2,Act,"oncogene, fusion",Act,SIDG09090
+FGFR3,Act,"oncogene, fusion",Act,SIDG09091
+FGFR4,Act,oncogene,Act,SIDG09098
+FH,LoF,TSG,LoF,SIDG09108
+FHIT,ambiguous,"TSG, fusion",ambiguous,SIDG09111
+FIP1L1,fusion,fusion,,SIDG09135
+FLCN,LoF,TSG,LoF,SIDG09173
+FLI1,Act,"oncogene, fusion",,SIDG09177
+FLT3,Act,oncogene,Act,SIDG09192
+FLT4,ambiguous,oncogene,ambiguous,SIDG09194
+FN1,LoF,,LoF,SIDG09225
+FOXA1,ambiguous,oncogene,LoF,SIDG09271
+FOXA2,LoF,,LoF,SIDG09272
+FOXD4L1,LoF,,LoF,SIDG09287
+FOXL2,ambiguous,"oncogene, TSG",Act,SIDG09308
+FOXO1,ambiguous,"oncogene, TSG, fusion",Act,SIDG09318
+FOXO3,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG09320
+FOXO4,ambiguous,"oncogene, TSG, fusion",,SIDG09322
+FOXP1,Act,"oncogene, fusion",Act,SIDG09324
+FSTL3,Act,"oncogene, fusion",,SIDG09542
+FUBP1,ambiguous,oncogene,LoF,SIDG09604
+FUS,LoF,"TSG, fusion",,SIDG09618
+GAS7,fusion,fusion,,SIDG09884
+GATA1,ambiguous,"oncogene, TSG",Act,SIDG09889
+GATA2,Act,oncogene,Act,SIDG09890
+GATA3,ambiguous,"oncogene, TSG",LoF,SIDG09892
+GLI1,Act,,Act,SIDG10175
+GMPS,LoF,,LoF,SIDG10272
+GNA11,Act,oncogene,Act,SIDG10274
+GNA13,LoF,,LoF,SIDG10276
+GNAI2,ambiguous,,ambiguous,SIDG10281
+GNAQ,Act,oncogene,Act,SIDG10287
+GNAS,Act,oncogene,Act,SIDG10289
+GOLGA5,fusion,fusion,,SIDG10361
+GOPC,fusion,fusion,,SIDG10415
+GPC3,ambiguous,"oncogene, TSG",,SIDG10460
+GPHN,fusion,fusion,,SIDG10478
+GRIN2A,ambiguous,TSG,Act,SIDG10664
+GTF2I,Act,,Act,SIDG10793
+H3-3A,Act,oncogene,Act,SIDG10944
+H3-3B,Act,oncogene,,SIDG10951
+H3C2,Act,oncogene,Act,SIDG11335
+H4C9,Act,fusion,Act,SIDG11353
+HERC2,ambiguous,,ambiguous,SIDG11180
+HERPUD1,fusion,fusion,,SIDG11196
+HEY1,Act,"oncogene, fusion",,SIDG11213
+HGF,Act,,Act,SIDG11219
+HIF1A,Act,oncogene,,SIDG11241
+HIP1,Act,"oncogene, fusion",Act,SIDG11280
+HLA-A,ambiguous,fusion,ambiguous,SIDG11393
+HLA-B,ambiguous,,ambiguous,SIDG11394
+HLF,Act,"oncogene, fusion",,SIDG11441
+HMGA1,Act,"oncogene, fusion",,SIDG11462
+HMGA2,Act,"oncogene, fusion",,SIDG11471
+HNF1A,LoF,TSG,LoF,SIDG11670
+HNRNPA2B1,Act,"oncogene, fusion",Act,SIDG11758
+HOOK3,fusion,fusion,,SIDG11843
+HOXA11,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG11864
+HOXA13,Act,"oncogene, fusion",,SIDG11866
+HOXA9,ambiguous,"oncogene, TSG, fusion",,SIDG11861
+HOXC11,Act,"oncogene, fusion",,SIDG11892
+HOXC13,Act,"oncogene, fusion",Act,SIDG11894
+HOXD11,Act,"oncogene, fusion",,SIDG11904
+HOXD13,ambiguous,"oncogene, fusion",LoF,SIDG11906
+HRAS,Act,oncogene,Act,SIDG11947
+HSP90AA1,Act,fusion,Act,SIDG12029
+HSP90AB1,Act,fusion,Act,SIDG12035
+HSPG2,ambiguous,,ambiguous,SIDG12151
+HTRA2,LoF,,LoF,SIDG12191
+ID3,LoF,,LoF,SIDG12269
+IDH1,Act,oncogene,Act,SIDG12285
+IDH2,Act,oncogene,Act,SIDG12287
+IFNAR1,LoF,,LoF,SIDG12352
+IFNGR1,LoF,,LoF,SIDG12360
+IGH,fusion,fusion,,SIDG12439
+IGK,fusion,fusion,,SIDG12678
+IGL,fusion,fusion,,SIDG12798
+IKBKB,ambiguous,oncogene,ambiguous,SIDG12924
+IKZF1,ambiguous,"TSG, fusion",ambiguous,SIDG12928
+IKZF3,ambiguous,,ambiguous,SIDG12930
+IL2,fusion,fusion,,SIDG12944
+IL21R,fusion,fusion,,SIDG13010
+IL6ST,Act,oncogene,Act,SIDG12959
+IL7R,Act,oncogene,Act,SIDG12962
+ING1,LoF,,LoF,SIDG13083
+INO80,ambiguous,,ambiguous,SIDG13098
+IRAK1,LoF,,LoF,SIDG13216
+IRF1,LoF,,LoF,SIDG13222
+IRF4,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG13228
+IRS4,ambiguous,"oncogene, TSG",LoF,SIDG13241
+ITK,fusion,fusion,,SIDG13332
+JAK1,ambiguous,"oncogene, TSG",ambiguous,SIDG13374
+JAK2,ambiguous,"oncogene, fusion",ambiguous,SIDG13375
+JAK3,Act,oncogene,Act,SIDG13376
+JUN,Act,oncogene,,SIDG13419
+KAT6A,ambiguous,"oncogene, fusion",ambiguous,SIDG13444
+KAT6B,ambiguous,"TSG, fusion",Act,SIDG13445
+KCNJ5,Act,oncogene,,SIDG13529
+KDM3B,ambiguous,,ambiguous,SIDG13634
+KDM5A,Act,"oncogene, fusion",Act,SIDG13642
+KDM5C,LoF,TSG,LoF,SIDG13644
+KDM6A,ambiguous,"oncogene, TSG",LoF,SIDG13648
+KDR,Act,oncogene,Act,SIDG13653
+KDSR,fusion,fusion,,SIDG13654
+KEAP1,ambiguous,TSG,Act,SIDG13655
+KEL,Act,,Act,SIDG13656
+KIF5B,Act,fusion,Act,SIDG13735
+KIFC1,Act,,Act,SIDG13768
+KIT,Act,oncogene,Act,SIDG13799
+KLF4,ambiguous,"oncogene, TSG",Act,SIDG13819
+KLF5,ambiguous,,ambiguous,SIDG13821
+KLF6,LoF,TSG,,SIDG13822
+KLHL36,ambiguous,,ambiguous,SIDG13886
+KLHL6,LoF,,LoF,SIDG13856
+KLK2,fusion,fusion,,SIDG13892
+KMT2A,ambiguous,"oncogene, fusion",LoF,SIDG13924
+KMT2B,LoF,,LoF,SIDG13925
+KMT2C,LoF,TSG,LoF,SIDG13926
+KMT2D,ambiguous,"oncogene, TSG",LoF,SIDG13927
+KNL1,LoF,"TSG, fusion",,SIDG13936
+KRAS,Act,oncogene,Act,SIDG13960
+KTN1,fusion,fusion,,SIDG14310
+LASP1,fusion,fusion,,SIDG14414
+LATS1,LoF,TSG,LoF,SIDG14417
+LATS2,LoF,TSG,LoF,SIDG14418
+LCK,Act,"oncogene, fusion",,SIDG14457
+LDB1,Act,,Act,SIDG14482
+LEF1,ambiguous,"oncogene, TSG",,SIDG14514
+LIFR,Act,fusion,Act,SIDG14602
+LMNA,fusion,fusion,,SIDG16660
+LMO1,Act,"oncogene, fusion",,SIDG16667
+LMO2,Act,"oncogene, fusion",,SIDG16668
+LOX,LoF,,LoF,SIDG16705
+LPAR4,LoF,,LoF,SIDG16718
+LPP,Act,"oncogene, fusion",Act,SIDG16733
+LRIG3,ambiguous,"TSG, fusion",ambiguous,SIDG16756
+LRP1B,LoF,TSG,LoF,SIDG16764
+LTB,Act,,Act,SIDG16936
+LY75-CD302,Act,,Act,SIDG16983
+LYL1,Act,"oncogene, fusion",,SIDG16991
+LZTR1,LoF,TSG,LoF,SIDG17035
+MAF,ambiguous,"oncogene, fusion",LoF,SIDG17068
+MAFB,Act,"oncogene, fusion",,SIDG17072
+MALT1,ambiguous,"oncogene, fusion",LoF,SIDG17149
+MAML2,ambiguous,"oncogene, fusion",LoF,SIDG17154
+MAP2,ambiguous,,ambiguous,SIDG17190
+MAP2K1,Act,oncogene,Act,SIDG17191
+MAP2K2,Act,oncogene,,SIDG17193
+MAP2K4,ambiguous,"oncogene, TSG",LoF,SIDG17195
+MAP2K7,LoF,,LoF,SIDG17199
+MAP3K1,ambiguous,"oncogene, TSG",LoF,SIDG17200
+MAP3K13,ambiguous,"oncogene, TSG",,SIDG17213
+MAPK1,Act,oncogene,Act,SIDG17235
+MARK2,ambiguous,,ambiguous,SIDG17298
+MAX,ambiguous,TSG,Act,SIDG17350
+MB21D2,LoF,,LoF,SIDG17353
+MCM3AP,ambiguous,,ambiguous,SIDG17421
+MDM2,Act,oncogene,Act,SIDG17467
+MDM4,Act,oncogene,Act,SIDG17468
+MECOM,Act,"oncogene, fusion",Act,SIDG17480
+MED12,ambiguous,TSG,Act,SIDG17493
+MEF2B,LoF,,LoF,SIDG17537
+MEN1,LoF,TSG,LoF,SIDG17577
+MET,Act,oncogene,Act,SIDG17604
+MGA,LoF,,LoF,SIDG17682
+MITF,Act,oncogene,,SIDG19770
+MLF1,LoF,"TSG, fusion",,SIDG19801
+MLH1,LoF,TSG,,SIDG19803
+MLLT1,Act,fusion,Act,SIDG19809
+MLLT10,Act,"oncogene, fusion",,SIDG19812
+MLLT11,fusion,fusion,,SIDG19815
+MLLT3,Act,fusion,Act,SIDG19810
+MLLT6,fusion,fusion,,SIDG19811
+MN1,Act,"oncogene, fusion",,SIDG19870
+MPL,Act,oncogene,,SIDG19953
+MRTFA,ambiguous,"oncogene, TSG, fusion",,SIDG19775
+MSH2,LoF,TSG,,SIDG20308
+MSH6,LoF,TSG,,SIDG20313
+MSI2,ambiguous,"oncogene, fusion",ambiguous,SIDG20315
+MSN,ambiguous,fusion,ambiguous,SIDG20359
+MTCP1,Act,"oncogene, fusion",Act,SIDG20623
+MTOR,Act,oncogene,Act,SIDG20992
+MUC1,fusion,fusion,,SIDG21035
+MUTYH,LoF,TSG,,SIDG21067
+MYB,Act,"oncogene, fusion",,SIDG21087
+MYC,Act,"oncogene, fusion",Act,SIDG21097
+MYCL,Act,oncogene,,SIDG21103
+MYCN,Act,oncogene,Act,SIDG21108
+MYD88,Act,oncogene,Act,SIDG21113
+MYH11,Act,fusion,Act,SIDG21129
+MYH9,ambiguous,"TSG, fusion",Act,SIDG21127
+MYO5A,ambiguous,fusion,ambiguous,SIDG21183
+MYOD1,Act,oncogene,,SIDG21206
+NAB2,LoF,"TSG, fusion",,SIDG21282
+NBEA,ambiguous,,ambiguous,SIDG21399
+NBN,LoF,TSG,,SIDG21410
+NCOA1,ambiguous,fusion,ambiguous,SIDG21479
+NCOA2,Act,"oncogene, fusion",Act,SIDG21480
+NCOA4,LoF,"TSG, fusion",,SIDG21482
+NCOR1,LoF,TSG,LoF,SIDG21491
+NCOR2,ambiguous,TSG,Act,SIDG21495
+NDRG1,LoF,"TSG, fusion",,SIDG21528
+NEFH,ambiguous,,ambiguous,SIDG21678
+NF1,LoF,"TSG, fusion",LoF,SIDG21750
+NF2,LoF,TSG,LoF,SIDG21764
+NFATC2,ambiguous,"oncogene, fusion",ambiguous,SIDG21769
+NFE2L2,ambiguous,"oncogene, TSG",Act,SIDG21776
+NFIB,fusion,fusion,,SIDG21784
+NFKB2,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG21794
+NFKBIA,LoF,,LoF,SIDG21795
+NFKBIE,ambiguous,TSG,ambiguous,SIDG21798
+NIN,LoF,fusion,LoF,SIDG21856
+NIPBL,LoF,,LoF,SIDG21876
+NKTR,Act,,Act,SIDG21903
+NKX2-1,ambiguous,"oncogene, TSG",ambiguous,SIDG21906
+NONO,LoF,fusion,LoF,SIDG22052
+NOTCH1,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG22079
+NOTCH2,ambiguous,"oncogene, TSG",ambiguous,SIDG22080
+NPEPPS,LoF,,LoF,SIDG22120
+NPM1,ambiguous,"oncogene, fusion",ambiguous,SIDG22155
+NPRL2,LoF,,LoF,SIDG22216
+NR4A3,Act,"oncogene, fusion",,SIDG22262
+NRAS,Act,oncogene,Act,SIDG22269
+NRG1,ambiguous,"TSG, fusion",Act,SIDG22290
+NRK,Act,,Act,SIDG22302
+NRP1,LoF,,LoF,SIDG22308
+NSD1,Act,fusion,Act,SIDG22319
+NSD2,Act,"oncogene, fusion",,SIDG22320
+NSD3,Act,"oncogene, fusion",,SIDG22321
+NT5C2,Act,oncogene,,SIDG22350
+NT5C3A,LoF,,LoF,SIDG22351
+NTRK1,ambiguous,"oncogene, TSG, fusion",Act,SIDG22386
+NTRK3,Act,"oncogene, fusion",Act,SIDG22388
+NUMA1,Act,fusion,Act,SIDG22449
+NUP214,Act,fusion,Act,SIDG22483
+NUP98,Act,"oncogene, fusion",,SIDG22470
+NUTM1,Act,"oncogene, fusion",,SIDG22501
+NUTM2B,fusion,fusion,,SIDG22504
+NUTM2D,fusion,fusion,,SIDG22506
+NXF1,Act,,Act,SIDG22514
+OLIG2,Act,"oncogene, fusion",,SIDG22651
+P2RY8,Act,"oncogene, fusion",Act,SIDG23756
+PABPC1,ambiguous,,ambiguous,SIDG23785
+PAFAH1B2,fusion,fusion,,SIDG23834
+PAK2,Act,,Act,SIDG23860
+PALB2,LoF,TSG,,SIDG23865
+PARP4,ambiguous,,ambiguous,SIDG23935
+PATZ1,LoF,"TSG, fusion",,SIDG23965
+PAX3,Act,"oncogene, fusion",,SIDG23972
+PAX5,ambiguous,"oncogene, TSG, fusion",,SIDG23974
+PAX7,fusion,fusion,,SIDG23977
+PAX8,fusion,fusion,,SIDG23978
+PBRM1,LoF,TSG,LoF,SIDG23994
+PBX1,Act,"oncogene, fusion",,SIDG23995
+PCBP1,Act,,Act,SIDG24016
+PCDH17,LoF,,LoF,SIDG24042
+PCM1,fusion,fusion,,SIDG24131
+PCMTD1,LoF,,LoF,SIDG24133
+PDCD1LG2,Act,"oncogene, fusion",Act,SIDG24195
+PDE4DIP,Act,fusion,Act,SIDG24232
+PDGFB,Act,"oncogene, fusion",,SIDG24251
+PDGFRA,Act,"oncogene, fusion",Act,SIDG24254
+PDGFRB,Act,"oncogene, fusion",Act,SIDG24255
+PDPR,ambiguous,,ambiguous,SIDG24291
+PEG3,Act,,Act,SIDG24334
+PER1,LoF,"TSG, fusion",,SIDG24349
+PHF6,LoF,TSG,LoF,SIDG24545
+PHOX2B,LoF,TSG,,SIDG24589
+PICALM,fusion,fusion,,SIDG24615
+PIK3CA,Act,oncogene,Act,SIDG24670
+PIK3CB,Act,oncogene,Act,SIDG24671
+PIK3R1,LoF,TSG,LoF,SIDG24679
+PIM1,ambiguous,"oncogene, fusion",LoF,SIDG24689
+PLAG1,Act,"oncogene, fusion",Act,SIDG24936
+PLCB4,Act,,Act,SIDG24951
+PLCG1,Act,"oncogene, fusion",Act,SIDG24959
+PML,LoF,"TSG, fusion",LoF,SIDG25091
+PMS2,LoF,TSG,LoF,SIDG25103
+POLD1,ambiguous,TSG,Act,SIDG25194
+POLE,ambiguous,TSG,ambiguous,SIDG25201
+POLQ,ambiguous,"oncogene, TSG",ambiguous,SIDG25215
+POT1,ambiguous,TSG,ambiguous,SIDG25294
+POU2AF1,Act,"oncogene, fusion",,SIDG25312
+POU2F2,ambiguous,,ambiguous,SIDG25314
+POU5F1,Act,"oncogene, fusion",,SIDG25323
+PPARG,LoF,"TSG, fusion",,SIDG25346
+PPFIBP1,fusion,fusion,,SIDG25367
+PPM1D,ambiguous,oncogene,LoF,SIDG25493
+PPP2R1A,ambiguous,TSG,Act,SIDG25582
+PPP3CA,LoF,,LoF,SIDG25599
+PPP6C,LoF,TSG,LoF,SIDG25616
+PPT2,Act,,Act,SIDG25624
+PRCC,fusion,fusion,,SIDG25689
+PRDM1,LoF,TSG,LoF,SIDG25693
+PRDM16,Act,"oncogene, fusion",,SIDG25707
+PRDM2,ambiguous,,ambiguous,SIDG25694
+PREX2,Act,oncogene,Act,SIDG25750
+PRF1,LoF,TSG,LoF,SIDG25751
+PRKACA,Act,oncogene,,SIDG25774
+PRKAR1A,ambiguous,"oncogene, TSG, fusion",LoF,SIDG25781
+PRKCB,Act,,Act,SIDG25789
+PRKCD,LoF,,LoF,SIDG25790
+PRKD2,ambiguous,,ambiguous,SIDG25801
+PRR14,LoF,,LoF,SIDG25907
+PRRX1,Act,fusion,Act,SIDG25955
+PSIP1,Act,"oncogene, fusion",Act,SIDG26048
+PTCH1,LoF,TSG,LoF,SIDG26185
+PTEN,LoF,TSG,LoF,SIDG26200
+PTK6,ambiguous,"oncogene, TSG",,SIDG26243
+PTMA,LoF,,LoF,SIDG26246
+PTPN11,Act,oncogene,Act,SIDG26287
+PTPN13,LoF,TSG,LoF,SIDG26289
+PTPN14,LoF,,LoF,SIDG26290
+PTPN6,LoF,,LoF,SIDG26284
+PTPRB,ambiguous,TSG,ambiguous,SIDG26299
+PTPRC,ambiguous,TSG,Act,SIDG26300
+PTPRD,Act,,Act,SIDG26302
+PTPRK,LoF,"TSG, fusion",LoF,SIDG26312
+PTPRT,LoF,TSG,LoF,SIDG26320
+QKI,ambiguous,"oncogene, TSG",LoF,SIDG26437
+RABEP1,LoF,fusion,LoF,SIDG26561
+RAC1,Act,oncogene,Act,SIDG26576
+RAD21,ambiguous,"oncogene, TSG",LoF,SIDG26601
+RAD51B,LoF,"TSG, fusion",,SIDG26615
+RAF1,Act,"oncogene, fusion",Act,SIDG26631
+RALGDS,Act,,Act,SIDG26649
+RANBP2,LoF,"TSG, fusion",LoF,SIDG26663
+RAP1GDS1,Act,"oncogene, fusion",Act,SIDG26690
+RARA,Act,"oncogene, fusion",Act,SIDG26706
+RASA1,LoF,,LoF,SIDG26727
+RASA2,LoF,,LoF,SIDG26728
+RB1,LoF,TSG,LoF,SIDG26775
+RBFOX1,Act,,Act,SIDG26800
+RBFOX2,Act,,Act,SIDG26801
+RBM10,LoF,TSG,LoF,SIDG26815
+RBM15,LoF,fusion,LoF,SIDG26824
+RBM38,ambiguous,,ambiguous,SIDG26855
+RBM39,Act,,Act,SIDG26856
+RECQL4,ambiguous,"oncogene, TSG",LoF,SIDG27002
+REL,Act,oncogene,,SIDG27017
+RELA,Act,,Act,SIDG27018
+RET,Act,"oncogene, fusion",Act,SIDG27044
+RGL3,Act,,Act,SIDG27121
+RGPD3,ambiguous,,ambiguous,SIDG27130
+RGS7,LoF,,LoF,SIDG27143
+RHOA,ambiguous,"oncogene, TSG",Act,SIDG27184
+RHOH,LoF,"TSG, fusion",,SIDG27194
+RHPN2,ambiguous,,ambiguous,SIDG27216
+RIPK1,ambiguous,,ambiguous,SIDG27256
+RMI2,LoF,"TSG, fusion",,SIDG27287
+RNF213,Act,fusion,Act,SIDG29169
+RNF43,LoF,TSG,LoF,SIDG29110
+RNF6,LoF,,LoF,SIDG29082
+ROS1,Act,"oncogene, fusion",,SIDG31261
+RPL10,LoF,TSG,LoF,SIDG31587
+RPL22,ambiguous,"TSG, fusion",Act,SIDG31990
+RPL5,LoF,TSG,,SIDG31334
+RPN1,fusion,fusion,,SIDG32635
+RPS3A,ambiguous,,ambiguous,SIDG32712
+RPS6KA3,LoF,,LoF,SIDG32814
+RRAGC,Act,,Act,SIDG33406
+RRAS2,Act,,Act,SIDG33409
+RSPH10B2,ambiguous,,ambiguous,SIDG33465
+RSPO2,LoF,"TSG, fusion",,SIDG33468
+RSPO3,Act,"oncogene, fusion",,SIDG33469
+RUNX1,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG33527
+RUNX1T1,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG33529
+RXRA,LoF,,LoF,SIDG33553
+SALL4,Act,oncogene,Act,SIDG33629
+SATB1,Act,,Act,SIDG33700
+SBDS,LoF,TSG,,SIDG33711
+SDC4,LoF,fusion,LoF,SIDG33897
+SDHA,LoF,TSG,,SIDG33914
+SDHAF2,LoF,TSG,,SIDG33916
+SDHB,LoF,TSG,,SIDG33922
+SDHC,LoF,TSG,,SIDG33923
+SDHD,LoF,TSG,,SIDG33928
+SEPTIN9,Act,,Act,SIDG34099
+SET,Act,"oncogene, fusion",Act,SIDG34205
+SETBP1,Act,"oncogene, fusion",Act,SIDG34206
+SETD1B,LoF,,LoF,SIDG34208
+SETD2,LoF,TSG,LoF,SIDG34209
+SETDB1,Act,,Act,SIDG34218
+SF3B1,Act,oncogene,Act,SIDG34252
+SFMBT2,Act,,Act,SIDG34261
+SFPQ,LoF,"TSG, fusion",,SIDG34263
+SFRP4,LoF,TSG,,SIDG34270
+SGK1,ambiguous,,ambiguous,SIDG34300
+SH2B3,ambiguous,TSG,ambiguous,SIDG34322
+SH3GL1,Act,"oncogene, fusion",,SIDG34345
+SIN3A,Act,,Act,SIDG34465
+SIRPA,LoF,,LoF,SIDG34475
+SIX1,ambiguous,oncogene,LoF,SIDG34493
+SLC34A2,LoF,"TSG, fusion",,SIDG34911
+SLC45A3,LoF,fusion,LoF,SIDG34994
+SMAD2,LoF,TSG,LoF,SIDG35068
+SMAD3,LoF,TSG,LoF,SIDG35069
+SMAD4,LoF,TSG,LoF,SIDG35070
+SMARCA1,LoF,,LoF,SIDG35081
+SMARCA4,LoF,TSG,LoF,SIDG35083
+SMARCB1,LoF,TSG,LoF,SIDG35088
+SMARCD1,ambiguous,TSG,ambiguous,SIDG35091
+SMARCE1,LoF,TSG,,SIDG35094
+SMC1A,Act,,Act,SIDG35103
+SMO,Act,oncogene,Act,SIDG35197
+SND1,Act,"oncogene, fusion",,SIDG35283
+SOCS1,LoF,TSG,LoF,SIDG36031
+SOHLH2,Act,,Act,SIDG36057
+SOS1,Act,,Act,SIDG36071
+SOX17,Act,,Act,SIDG36100
+SOX2,Act,oncogene,,SIDG36082
+SOX21,LoF,,LoF,SIDG36102
+SOX9,LoF,,LoF,SIDG36092
+SP140,ambiguous,,ambiguous,SIDG36119
+SPEN,ambiguous,TSG,ambiguous,SIDG36265
+SPOP,ambiguous,TSG,Act,SIDG36335
+SRC,Act,oncogene,,SIDG36405
+SRGAP3,Act,,Act,SIDG36427
+SRSF2,Act,oncogene,Act,SIDG36484
+SRSF3,Act,"oncogene, fusion",,SIDG36485
+SS18,fusion,fusion,,SIDG36501
+SS18L1,fusion,fusion,,SIDG36502
+SSX1,Act,"oncogene, fusion",,SIDG36551
+SSX2,Act,"oncogene, fusion",,SIDG36552
+SSX4,Act,"oncogene, fusion",,SIDG36556
+STAG2,LoF,TSG,LoF,SIDG36646
+STAT3,ambiguous,oncogene,ambiguous,SIDG36681
+STAT5B,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG36684
+STAT6,Act,"oncogene, fusion",Act,SIDG36685
+STIL,ambiguous,"oncogene, fusion",ambiguous,SIDG36701
+STK11,LoF,TSG,LoF,SIDG36713
+STRN,ambiguous,fusion,ambiguous,SIDG36778
+SUFU,LoF,TSG,,SIDG36842
+SUSD2,Act,,Act,SIDG36927
+SUZ12,ambiguous,"oncogene, TSG, fusion",Act,SIDG36936
+SYK,Act,"oncogene, fusion",,SIDG36972
+TAF15,ambiguous,"oncogene, fusion",ambiguous,SIDG37106
+TAL1,Act,"oncogene, fusion",,SIDG37113
+TAL2,Act,"oncogene, fusion",,SIDG37114
+TBL1XR1,ambiguous,"oncogene, TSG, fusion",LoF,SIDG37273
+TBX3,ambiguous,"oncogene, TSG",LoF,SIDG37288
+TCEA1,fusion,fusion,,SIDG37315
+TCF12,fusion,fusion,,SIDG37348
+TCF3,ambiguous,"oncogene, TSG, fusion",,SIDG37339
+TCF4,Act,,Act,SIDG37341
+TCF7L2,Act,"oncogene, fusion",Act,SIDG37347
+TCIRG1,LoF,,LoF,SIDG37361
+TCL1A,Act,"oncogene, fusion",,SIDG37362
+TEC,LoF,,LoF,SIDG37424
+TENT5C,LoF,TSG,LoF,SIDG08401
+TERT,ambiguous,"oncogene, TSG",,SIDG37472
+TET1,ambiguous,"oncogene, TSG, fusion",ambiguous,SIDG37480
+TET2,LoF,TSG,LoF,SIDG37482
+TFAP4,LoF,,LoF,SIDG37540
+TFE3,Act,"oncogene, fusion",,SIDG37549
+TFEB,Act,"oncogene, fusion",,SIDG37550
+TFG,LoF,fusion,LoF,SIDG37555
+TGFBR2,LoF,TSG,LoF,SIDG37577
+TGIF1,LoF,,LoF,SIDG37582
+TLL1,Act,,Act,SIDG37773
+TLX1,Act,"oncogene, fusion",,SIDG37790
+TLX3,Act,"oncogene, fusion",,SIDG37793
+TMEM127,LoF,TSG,,SIDG37976
+TMPRSS2,fusion,fusion,,SIDG38164
+TNC,ambiguous,,ambiguous,SIDG38209
+TNFAIP3,LoF,TSG,LoF,SIDG38213
+TNFRSF14,LoF,TSG,LoF,SIDG38237
+TNFRSF17,Act,"oncogene, fusion",,SIDG38239
+TOP1,LoF,fusion,LoF,SIDG38338
+TOP2A,Act,,Act,SIDG38342
+TP53,ambiguous,"oncogene, TSG, fusion",LoF,SIDG38363
+TP63,ambiguous,"oncogene, TSG",ambiguous,SIDG38385
+TPM3,LoF,"TSG, fusion",,SIDG38409
+TPM4,fusion,fusion,,SIDG38419
+TPR,fusion,fusion,,SIDG38432
+TRA,fusion,fusion,,SIDG38485
+TRAF3,LoF,,LoF,SIDG38541
+TRAF7,LoF,TSG,,SIDG38550
+TRB,fusion,fusion,,SIDG38705
+TRD,fusion,fusion,,SIDG38834
+TRIM24,ambiguous,"oncogene, TSG, fusion",Act,SIDG39069
+TRIM27,Act,"oncogene, fusion",,SIDG39073
+TRIM33,ambiguous,"TSG, fusion",ambiguous,SIDG39079
+TRIM49C,Act,,Act,SIDG39101
+TRIP11,Act,fusion,Act,SIDG39174
+TRRAP,ambiguous,oncogene,ambiguous,SIDG39494
+TSC1,LoF,TSG,LoF,SIDG39640
+TSC2,LoF,TSG,LoF,SIDG39641
+TSHR,Act,oncogene,,SIDG39662
+U2AF1,Act,oncogene,Act,SIDG40048
+U2AF2,Act,,Act,SIDG40051
+UBE2A,LoF,,LoF,SIDG40094
+UBE2D2,Act,,Act,SIDG40103
+UBR5,ambiguous,oncogene,ambiguous,SIDG40228
+UGT2B17,Act,,Act,SIDG40313
+USP44,LoF,,LoF,SIDG40580
+USP6,Act,"oncogene, fusion",Act,SIDG40461
+USP8,ambiguous,oncogene,ambiguous,SIDG40464
+USP9X,LoF,,LoF,SIDG40466
+VAV1,Act,,Act,SIDG40639
+VHL,LoF,TSG,LoF,SIDG40703
+WAS,ambiguous,oncogene,LoF,SIDG40973
+WDCP,fusion,fusion,,SIDG41021
+WDR45,LoF,,LoF,SIDG41061
+WIF1,LoF,"TSG, fusion",,SIDG41133
+WNK2,ambiguous,,ambiguous,SIDG41146
+WNK4,ambiguous,,ambiguous,SIDG41148
+WRN,LoF,TSG,LoF,SIDG41173
+WT1,ambiguous,"oncogene, TSG, fusion",LoF,SIDG41181
+WWTR1,Act,"oncogene, fusion",,SIDG41198
+XPA,LoF,TSG,,SIDG41252
+XPC,LoF,TSG,LoF,SIDG41254
+XPO1,Act,oncogene,Act,SIDG41258
+YWHAE,LoF,"TSG, fusion",,SIDG41361
+ZBTB16,ambiguous,"TSG, fusion",ambiguous,SIDG41438
+ZBTB20,Act,,Act,SIDG41441
+ZBTB7B,Act,,Act,SIDG41424
+ZCRB1,LoF,,LoF,SIDG41513
+ZEB1,LoF,,LoF,SIDG41549
+ZFHX3,LoF,TSG,LoF,SIDG41569
+ZFP36L1,LoF,,LoF,SIDG41579
+ZFX,LoF,,LoF,SIDG41602
+ZMYM2,fusion,fusion,,SIDG41654
+ZNF148,Act,,Act,SIDG41805
+ZNF165,LoF,,LoF,SIDG41817
+ZNF208,ambiguous,,ambiguous,SIDG41848
+ZNF331,LoF,"TSG, fusion",,SIDG41941
+ZNF384,fusion,fusion,,SIDG41967
+ZNF429,LoF,,LoF,SIDG41999
+ZNF521,Act,"oncogene, fusion",Act,SIDG42069
+ZNF626,ambiguous,,ambiguous,SIDG42171
+ZNF680,ambiguous,,ambiguous,SIDG42214
+ZNF721,ambiguous,,ambiguous,SIDG42255
+ZNF780A,Act,,Act,SIDG42307
+ZNF814,Act,,Act,SIDG42334
+ZNF93,LoF,,LoF,SIDG41755
+ZNRF3,LoF,,LoF,SIDG42403
+ZRSR2,LoF,TSG,LoF,SIDG42422
+ZXDB,LoF,,LoF,SIDG42467
