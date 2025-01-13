@@ -7,15 +7,12 @@ on:
     branches:
       - main
 
-env:
-  MODUS_DIR: ""
-
 permissions:
   contents: read
 
 jobs:
   build:
-    name: build
+    name: Build Modus Project
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -33,10 +30,10 @@ jobs:
             exit 1
           fi
 
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: "18"
 
       - name: Setup Go
         uses: actions/setup-go@v5
@@ -46,12 +43,12 @@ jobs:
         with:
           tinygo-version: "0.34.0"
 
-      - name: Build project
+      - name: Build Modus Project
         run: npx -p @hypermode/modus-cli -y modus build
         working-directory: ${{ env.MODUS_DIR }}
         shell: bash
 
-      - name: Publish GitHub artifact
+      - name: Publish GitHub Artifact
         uses: actions/upload-artifact@v4
         with:
           name: build
