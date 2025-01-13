@@ -63,7 +63,7 @@ pip install -r requirements.txt
    NEO4J_PASSWORD = "<your-password>"
    ```
 
-### Modus API Configuration (Optional)
+### Modus API Configuration
 
 1. Obtain your **Modus API URL** and **API Key**.
 2. Add the details to `secrets.toml`:
