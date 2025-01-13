@@ -1,9 +1,9 @@
 {
   "name": "ProstateCancerGeneAnalysis",
   "description": "An AI-powered knowledge graph platform integrating Neo4j and Modus API for prostate cancer research.",
-  "entry_point": "app.py",  // Update this to your main entry script
+  "entry_point": "app.py",  
   "dependencies": {
     "python": "3.10",
-    "modus-sdk": "latest" // Ensure the correct SDK is mentioned here
+    "modus-sdk": "0.16.2" 
   }
 }
