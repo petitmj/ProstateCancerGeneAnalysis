@@ -212,7 +212,6 @@ def visualize_with_pyvis(cluster=None, gene=None):
 # Streamlit UI
 st.title("Prostate Cancer Gene Analysis")
 st.subheader("Insights from Modus API and Neo4j Visualization")
-st.subheader("Clustered data and relationships between genes are visualized interactively")
 st.subheader("Insights like relationships between genes in the same cluster can help researchers identify co-mutations or new targets")
 
 st.subheader("Classification Report")
