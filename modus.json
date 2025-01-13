@@ -4,6 +4,6 @@
   "entry_point": "app.py",  
   "dependencies": {
     "python": "3.10",
-    "modus-sdk": "0.16.2" 
+    "modus-sdk": "modus-python-sdk" 
   }
 }
