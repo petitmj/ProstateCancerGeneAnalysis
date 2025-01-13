@@ -1,17 +1,21 @@
 name: ci-modus-build
 
 on:
+  workflow_dispatch:
+  pull_request:
   push:
     branches:
       - main
-  pull_request:
-  workflow_dispatch:
+
+env:
+  MODUS_DIR: "/"
 
 permissions:
   contents: read
 
 jobs:
   build:
+    name: build
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -29,18 +33,26 @@ jobs:
             exit 1
           fi
 
-      - name: Setup Node.js
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "22"
 
-      - name: Build Modus Project
+      - name: Setup Go
+        uses: actions/setup-go@v5
+
+      - name: Setup TinyGo
+        uses: acifani/setup-tinygo@v2
+        with:
+          tinygo-version: "0.34.0"
+
+      - name: Build project
         run: npx -p @hypermode/modus-cli -y modus build
         working-directory: ${{ env.MODUS_DIR }}
         shell: bash
 
-      - name: Publish Build Artifacts
+      - name: Publish GitHub artifact
         uses: actions/upload-artifact@v4
         with:
-          name: modus-build
+          name: build
           path: ${{ env.MODUS_DIR }}/build/*
