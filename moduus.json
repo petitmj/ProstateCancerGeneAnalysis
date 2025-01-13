@@ -1,0 +1,8 @@
+{
+  "name": "ProstateCancerGeneAnalysis",
+  "description": "A brief description of your project.",
+  "entry_point": "app.py", 
+  "dependencies": {
+    "python": "3.10"
+  }
+}
